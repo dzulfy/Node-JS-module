@@ -1,0 +1,2 @@
+
+aku coba membuat file write and read di FS
